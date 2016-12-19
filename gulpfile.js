@@ -7,6 +7,8 @@ var sass = require('gulp-sass');
 var browserSync = require('browser-sync').create();
 var useref = require('gulp-useref');
 
+//basic gulp syntax test
+
 gulp.task('apa', function () {
     console.log('apan är en apa');
 });
